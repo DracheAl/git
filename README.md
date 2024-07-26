@@ -1,1 +1,1 @@
-# git
+You can use any ERP software, but keep in mind that timely updates are always necessary. It's best to choose platforms and systems that have partners or experts to help you with updates, ensuring everything runs smoothly. Right now, I’m using IFS Cloud, which is great because it has [IFS Transformation Services by trusted IFS Partner](https://www.novacura.com/ifs-services-upgrades/). I feel more comfortable letting the official software rep handle these tasks instead of trying to figure it out myself.	
